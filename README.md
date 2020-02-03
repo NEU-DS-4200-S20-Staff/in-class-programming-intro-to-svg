@@ -13,4 +13,7 @@ Try to think about how you would use an SVG and `<circle></circle>` tags within 
 
 - https://developer.mozilla.org/en-US/docs/Web/SVG
 	The MDN documentation for SVG is very helpful.  Look at each SVG element and the properties they accept when they render.
-- 
+- https://github.com/d3/d3-scale-chromatic
+	Documentation for the d3 color scales.
+- https://bl.ocks.org/pstuffa/3393ff2711a53975040077b7453781a9
+	An example of the d3 color scales being loaded.
